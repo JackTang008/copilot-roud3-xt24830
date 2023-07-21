@@ -1,0 +1,23 @@
+Index,CountryCode,CountryDesc,HolidayDate,HolidayName
+US2023-04-15,US,UNITED STATES,2023/4/15,Good Friday
+GB2023-04-15,GB,UNITED KINGDOM,2023/4/15,Good Friday
+US2023-12-25,US,UNITED STATES,2023/12/25,Christmas Day
+GB2023-12-25,GB,UNITED KINGDOM,2023/12/25,Christmas Day
+CN2020-01-01,CN,China,2020/1/1,New Year's Day
+CN2020-01-24,CN,China,2020/1/24,Chinese New Year's Eve
+CN2020-01-25,CN,China,2020/1/25,Chinese New Year
+CN2020-01-26,CN,China,2020/1/26,Chinese New Year
+CN2020-01-27,CN,China,2020/1/27,Chinese New Year
+CN2020-01-28,CN,China,2020/1/28,Chinese New Year
+CN2020-01-29,CN,China,2020/1/29,Chinese New Year
+CN2020-01-30,CN,China,2020/1/30,Chinese New Year
+CN2020-06-25,CN,China,2020/6/25,Duanwu Festival
+CN2020-06-26,CN,China,2020/6/26,Duanwu Festival
+CN2020-06-27,CN,China,2020/6/27,Duanwu Festival
+CN2020-10-01,CN,China,2020/10/1,National Day
+CN2020-10-02,CN,China,2020/10/2,National Day
+CN2020-10-03,CN,China,2020/10/3,National Day
+CN2020-10-04,CN,China,2020/10/4,National Day
+CN2020-10-05,CN,China,2020/10/5,National Day
+CN2020-10-06,CN,China,2020/10/6,National Day
+CN2020-10-07,CN,China,2020/10/7,National Day
